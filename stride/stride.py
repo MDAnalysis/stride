@@ -1,0 +1,3 @@
+def stride():
+    pass
+
