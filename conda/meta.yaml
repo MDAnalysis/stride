@@ -1,0 +1,12 @@
+package:
+  name: stride
+  version: "1.0"
+
+source:
+  path:  ../src
+
+build:
+  number: 0
+
+about:
+  home: http://webclu.bio.wzw.tum.de/stride/
