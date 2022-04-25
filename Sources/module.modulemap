@@ -1,0 +1,4 @@
+
+framework module Stride {
+    header "stride.h"
+}
